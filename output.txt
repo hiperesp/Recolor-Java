@@ -1,0 +1,27 @@
+add color
+ffff00
+
+remove color
+ff0000
+
+blend colors
+00ff00
+
+invert color
+00ffff
+
+increase contrast level
+ffc000
+
+decrease contrast level
+ffbf00
+
+increase brightness level
+ffff80
+
+decrease brightness level
+7f0000
+
+generate gradient
+ff0000, e31c00, c73800, ab5400, 8f7000, 728c00, 56a800, 3ac400, 1ee000, 02fc00
+
